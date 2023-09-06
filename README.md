@@ -1,4 +1,4 @@
-### Hi there 👋
+### 嘻嘻嘻嘻，github，啟動！ 👋
 
 <!--
 **cct1225/cct1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
