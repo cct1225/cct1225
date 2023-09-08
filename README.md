@@ -5,26 +5,28 @@
 <br>
 <div>
 <div>
-<h2>CCT's Github Stats</h2>
+<h2>🗿 CCT's Github Stats</h2>
 <span align="left">
   <p>
   <span align="left">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=cct1225&rank_icon=github" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=cct1225&rank_icon=github&theme=nord" />
   </span>
-  <img align="left" width="39%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cct1225&layout=compact" />
+  <img align="left" width="39%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cct1225&layout=compact&theme=nord" />
   </p>
-<h2>About CCT</h2>
+<h2>:otter: All About CCT</h2>
   <div>
     <h4>
       <li>🌱 I’m currently learning <code>C++</code>, <code>Python</code>
+      <li>:bookmark_tabs: <em>Mathematics</em>, <em>Physics</em>, and <em>PE</em> is actually my top 3 Subjects in school!
+      <li> :feet: I LOVE WATCHING ANIMES and VTUBERS!!! 
     </h4>
   </div>
 </div>
   
-<h2>Discord</h2>
-    <img title="Discord"  src="https://dcbadge.vercel.app/api/shield/936626659308757022"/>
+<h2> :link: Get In Touch</h2>
+    <img title="Discord"  src="https://dcbadge.vercel.app/api/shield/936626659308757022?theme=default-inverted"/>
 </a>
-  
+
 
 <!--
 
