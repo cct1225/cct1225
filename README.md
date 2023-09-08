@@ -1,7 +1,22 @@
-# [![cct](https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2023%2F01%2Fhttps___hk.hypebeast.com_files_2021_08_never-gonna-give-you-up-passes-one-billion-views-fb.jpg?w=960&cbr=1&q=90&fit=max)](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
-### 嘻嘻嘻嘻，github，啟動！ 👋
+
+<h3> 嘻嘻嘻嘻，GitHub，啟動！ 👋
+<h3>    
+<div>
+  <p>
+  <span align="left">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=cct1225&theme=graywhite" />
+  </span>
+  <img align="left" width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cct1225&theme=graywhite" />
+  </p>
+  <div>
+    <h4>
+      <li>🌱 I’m currently learning <code>C++</code>, <code>Python</code>
+    </h4>
+  </div>
+</div>
 
 <!--
+
 **cct1225/cct1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
