@@ -23,6 +23,7 @@
 </div>
   
 <h2> :link: Get In Touch</h2>
+<a href="https://discord.com/users/936626659308757022">
     <img title="Discord"  src="https://dcbadge.vercel.app/api/shield/936626659308757022?theme=default-inverted"/>
 </a>
 
