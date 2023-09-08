@@ -1,5 +1,5 @@
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=900&size=30&pause=1000&color=064316&width=435&lines=%E5%98%BB%E5%98%BB%E5%98%BB%EF%BC%8CGithub%EF%BC%8C%E5%95%9F%E5%8B%95%EF%BC%81" alt="Typing SVG" /></a>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=34&pause=1000&color=197CA9&background=1A30B800&width=435&lines=hehehe%2C+Github%2C+activate!" alt="Typing SVG" /></a>
 </h2>
 
 <div>
@@ -8,11 +8,11 @@
 <span align="left">
   <p>
   <span align="left">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=cct1225&rank_icon=github&theme=nord" />
+  <img width="40.5%" src="https://github-readme-stats.vercel.app/api?username=cct1225&rank_icon=github&theme=nord" />
   </span>
-  <img align="left" width="39%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cct1225&layout=compact&theme=nord" />
+  <img align="left" width="46%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cct1225&layout=compact&theme=nord" />
   </p>
-<h2>:otter: All About CCT</h2>
+<h2>:otter: About CCT...</h2>
   <div>
     <h4>
       <li>🌱 I’m currently learning <code>C++</code>, <code>Python</code>
