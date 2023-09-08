@@ -5,7 +5,7 @@
   <span align="left">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=cct1225&rank_icon=github" />
   </span>
-  <img align="left" width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cct1225&layout=compact" />
+  <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cct1225&layout=compact" />
   </p>
   <div>
     <h4>
