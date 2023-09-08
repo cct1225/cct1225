@@ -1,12 +1,11 @@
-
-<h3> 嘻嘻嘻嘻，GitHub，啟動！ 👋
-<h3>    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=100&size=30&pause=1000&color=000000&background=FFFFFF00&width=435&lines=Under+construction...;%E5%98%BB%E5%98%BB%E5%98%BB%EF%BC%8CGithub%EF%BC%8C%E5%95%9F%E5%8B%95%EF%BC%81" alt="Typing SVG" /></a>
+<br>    
 <div>
   <p>
   <span align="left">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=cct1225&theme=graywhite" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=cct1225&rank_icon=github" />
   </span>
-  <img align="left" width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cct1225&theme=graywhite" />
+  <img align="left" width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cct1225&layout=compact" />
   </p>
   <div>
     <h4>
