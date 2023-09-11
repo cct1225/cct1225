@@ -16,7 +16,7 @@
   <div>
     <h4>
       <li>🌱 I’m currently learning <code>C++</code>, <code>Python</code>
-      <li>:bookmark_tabs: <em>Mathematics</em>, <em>Physics</em>, and <em>PE</em> is actually my top 3 Subjects in school!
+      <li>:bookmark_tabs: <em>Mathematics</em>, <em>Physics</em>, and <em>PE</em> is actually my top 3  favorite Subjects in school!
       <li> :feet: I LOVE WATCHING ANIMES and VTUBERS!!! 
     </h4>
   </div>
