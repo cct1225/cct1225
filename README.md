@@ -15,9 +15,9 @@
 <h2>:otter: About CCT...</h2>
   <div>
     <h4>
-      <li>🌱 I’m currently learning <code>C++</code>, <code>Python</code>
-      <li>:bookmark_tabs: <em>Mathematics</em>, <em>Physics</em>, and <em>PE</em> is actually my top 3  favorite Subjects in school!
-      <li> :feet: I LOVE WATCHING ANIMES and VTUBERS!!! 
+      <p>🌱 I’m currently learning <code>C++</code>, <code>Python</code>
+      <p>:bookmark_tabs: <em>Mathematics</em>, <em>Physics</em>, and <em>PE</em> is actually my top 3  favorite Subjects in school!
+      <p> :feet: I LOVE WATCHING ANIMES and VTUBERS!!! 
     </h4>
   </div>
 </div>
